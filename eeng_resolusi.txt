@@ -3,3 +3,4 @@ Resolusi Eeng
 - Menyelesaikan materi CSS dalam 3 Minggu
 - Menyelesaikan materi Javascript dalam 1 bulan
 - Belajar Framework React dan VueJS
+- Belajar Basic Golang

@@ -1,0 +1,5 @@
+Resolusi Eeng
+- Menyelesaikan materi HTML dalam 1 Minggu
+- Menyelesaikan materi CSS dalam 3 Minggu
+- Menyelesaikan materi Javascript dalam 1 bulan
+- Belajar Framework

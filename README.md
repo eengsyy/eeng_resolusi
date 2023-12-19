@@ -1,2 +1,2 @@
 # eeng_resolusi
-Repositori untukmenyimpan resolusi Eeng
+Repositori untuk menyimpan file resolusi Eeng
